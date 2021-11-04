@@ -1,0 +1,5 @@
+name: OfflineWhitelist
+version: '${project.version}'
+main: me.hsgamer.offlinewhitelist.OfflineWhitelist
+api-version: 1.17
+authors: [ HSGamer ]
